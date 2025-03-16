@@ -44,7 +44,8 @@ Hardware experiments were conducted to validate the algorithms in real-world sce
 
   Joint Position Velocity and Acceleration Profile:
   Profile shows that overall jerks are reduced, when KUKA iiwa is powered by the new approach.
-  ![image](https://github.com/user-attachments/assets/2cc8fc92-ce5d-46aa-9ea8-75b9e8cf41d8)
+  ![image](https://github.com/user-attachments/assets/0f66244c-cd13-4f29-b8f4-da77903c53ee)
+
 
 
   
