@@ -33,6 +33,7 @@ Below shows the result from one of the test scenerio:
 
 # Hardware Experimentation:
 Hardware experiments were conducted to validate the algorithms in real-world scenarios, involving static and dynamic obstacle tests. The setup included a table, a wall, and a movable cube as obstacles, simulating realistic challenges. These tests assessed the robot's ability to navigate safely and efficiently in constrained environments.
+
 ![image](https://github.com/user-attachments/assets/5db57306-de8d-41d8-80a6-ee1699f5b333)
 
   Mean Jerk and Time comparison:
