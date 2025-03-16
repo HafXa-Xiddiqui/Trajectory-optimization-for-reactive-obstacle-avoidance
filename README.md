@@ -37,9 +37,11 @@ Hardware experiments were conducted to validate the algorithms in real-world sce
 ![image](https://github.com/user-attachments/assets/5db57306-de8d-41d8-80a6-ee1699f5b333)
 
   Mean Jerk and Time comparison:
+  With the new Approach the Robot reaches the goal in sortest possible time and with minimum jerk values.
   ![image](https://github.com/user-attachments/assets/09480e54-4037-4f96-b32c-a775990f5023)
 
   Joint Position Velocity and Acceleration Profile:
+  Profile shows that overall jerks are reduced, when KUKA iiwa is powered by the new approach.
   ![image](https://github.com/user-attachments/assets/2cc8fc92-ce5d-46aa-9ea8-75b9e8cf41d8)
 
 
