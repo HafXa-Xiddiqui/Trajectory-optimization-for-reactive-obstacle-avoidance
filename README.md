@@ -30,7 +30,8 @@ Below shows the result from one of the test scenerio:
      The experiment consisted of 10 runs with randomly generated start and goal poses.
   Below shows one of the test scene
   
-  ![image](https://github.com/user-attachments/assets/c070aa45-9cef-4353-af9c-bf318f029e25)
+![image](https://github.com/user-attachments/assets/f84a055d-57f7-474b-9ec7-f94880565375)
+
 
 # Hardware Experimentation:
 Hardware experiments were conducted to validate the algorithms in real-world scenarios, involving static and dynamic obstacle tests. The setup included a table, a wall, and a movable cube as obstacles, simulating realistic challenges. These tests assessed the robot's ability to navigate safely and efficiently in constrained environments.
