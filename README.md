@@ -7,7 +7,7 @@ The Hybrid model minimizes trajectory oscillations.
 Leads to converge to a good solution (trajectory) quickly. This leads to a shorter overall path.
 The approach demonstrates faster completion of tasks.
 Improved time efficiency and path optimization contribute to lower overall costs.
-![image](https://github.com/user-attachments/assets/ff2bc285-6d9f-4f2a-bec1-561e533127e9)
+
 
 
 # Experimentation:
