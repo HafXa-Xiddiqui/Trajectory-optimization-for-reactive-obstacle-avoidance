@@ -2,9 +2,6 @@
 
 *A collaborative research project with KUKA Deutschland GmbH*
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Research%20Project-orange.svg)]()
-
 This research project implements and enhances Via-Point based Stochastic Trajectory Optimization (VP-STO) with a custom hybrid distribution for reactive obstacle avoidance in dynamic environments. Validated through extensive simulations and real-world testing on KUKA iiwa hardware, our approach demonstrates significant improvements in trajectory smoothness, adaptability, and computational efficiency.
 
 ## 🎯 Key Innovations
@@ -69,24 +66,6 @@ The enhanced smoothness is evident in joint-level motion characteristics:
 - ROS (Robot Operating System)
 - KUKA iiwa simulation environment
 
-### Installation
-```bash
-git clone https://github.com/your-username/trajectory-optimization.git
-cd trajectory-optimization
-pip install -r requirements.txt
-```
-
-### Basic Usage
-```python
-from vpsto_hybrid import HybridTrajectoryOptimizer
-
-# Initialize optimizer
-optimizer = HybridTrajectoryOptimizer()
-
-# Generate optimal trajectory
-trajectory = optimizer.optimize_path(start_pose, goal_pose, obstacles)
-```
-
 ## 🏗️ System Architecture
 
 ### Core Components
@@ -142,13 +121,9 @@ This project is developed in partnership with **KUKA Deutschland GmbH**, leverag
 ## 📞 Contact
 
 For questions or collaboration opportunities:
-- **Research Lead**: [Your Name]
-- **Institution**: [Your University/Organization]
-- **Email**: [your.email@institution.edu]
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- **Research Lead**: Hafsa Siddiqui
+- **Institution**: University of Siegen
+- **Email**: Hafsa.xiddiqui@gmail.com
 
 ---
 
