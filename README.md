@@ -81,23 +81,6 @@ The enhanced smoothness is evident in joint-level motion characteristics:
 4. **Selection**: Choose optimal trajectory using weighted cost function
 5. **Execution**: Deploy to robot with real-time monitoring
 
-## 📁 Repository Structure
-
-```
-├── src/
-│   ├── core/               # Core optimization algorithms
-│   ├── models/             # Hybrid distribution models
-│   ├── utils/              # Helper functions and utilities
-│   └── hardware/           # KUKA iiwa interface
-├── experiments/
-│   ├── static_tests/       # Static environment evaluations
-│   ├── dynamic_tests/      # Moving obstacle scenarios
-│   └── hardware_tests/     # Real-world validation
-├── data/                   # Experimental results and logs
-├── docs/                   # Documentation and publications
-└── examples/               # Usage examples and demos
-```
-
 ## 🔬 Research Impact
 
 ### Industrial Applications
